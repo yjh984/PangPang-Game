@@ -11,7 +11,7 @@ def operation():
     screen = pygame.display.set_mode((screen_width, screen_height))
 
     #화면 타이틀
-    pygame.display.set_caption("Nado Pang")
+    pygame.display.set_caption("PangPang")
     clock=pygame.time.Clock()
 
     # background, stage 추가
